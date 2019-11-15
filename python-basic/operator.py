@@ -1,0 +1,7 @@
+print("La suma de 2 + 2= ", 2+2)
+print("La resta de 50 - 10= ", 50-10)
+print("La multiplicacion de 2 * 2= ", 2*2)
+print("La division de 8/2= ", 8/2)
+print("La division de 8.0/2.0= ", 8.0/2.0)
+print("El modulo de 9 % 2= ", 9%2)
+print("La tercera potencia de 3 es= ", 3**3)
